@@ -335,31 +335,4 @@ body{
 	left: 0;
 }
 }
-@media (max-width:1200px)){
-	.loading .bar{
-		width: 350px;
-		}
-		.loading .bar:after
-		{
-			width: 100%;
-			font-size: 8px;
-			letter-spacing: 8px;
-		}
 
-		.center div:before
-{
-	content: '';
-	position: absolute;
-	width: 100%;
-	height: 100%;
-
-}
-.center div:nth-child(8):before
-{
-	animation: animate 1s linear forwards;
-	transform-origin: left;
-	animation-delay: 14s;
-	width: 40%;
-	left: 0;
-}
-}

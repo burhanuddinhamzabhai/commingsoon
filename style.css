@@ -303,7 +303,7 @@ body{
 	animation: animate 1s linear forwards;
 	transform-origin: left;
 	animation-delay: 14s;
-	width: 60%;
+	width: 50%;
 	left: 0;
 }
 }
